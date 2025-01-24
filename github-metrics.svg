@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            246 Commits
+                            247 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.88833835225813" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="375.88833835225813" y="0" width="25.98137202618072" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="401.86971037843887" y="0" width="16.484595384788676" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="418.35430576322756" y="0" width="15.936102467001525" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.2904082302291" y="0" width="14.205444874007933" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.495853104237" y="0" width="6.442550859626735" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.9384039638637" y="0" width="3.3563118725431087" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.2947158364068" y="0" width="1.70528416359315" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.8875245015191" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="375.8875245015191" y="0" width="25.98131577288242" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="401.8688402744015" y="0" width="16.484559693337868" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="418.35339996773945" y="0" width="15.936067963114473" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="434.2894679308539" y="0" width="14.206410081467503" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="448.49587801232144" y="0" width="6.442536910604529" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.938414922926" y="0" width="3.3563046056592523" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.29471952858523" y="0" width="1.7052804714148213" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -300,7 +300,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 1 day
+                            Current streak 2 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2289,6 +2289,11 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.09375 0,1.09375 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.09375 1.7,2.09375 z"/>
                             </g>
+                            <g transform="translate(-6.8, 9.90625)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.09375 0,1.09375 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.09375 1.7,2.09375 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2302,6 +2307,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Crimson-Genesis/arch-config</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#942c9b5</div>
+                                        <div class="message">update the install_package script.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Crimson-Genesis/arch-config</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c9d6d49</div>
+                                        <div class="message">little changes in the root.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2358,76 +2403,6 @@
                                     <div class="commit">
                                         <div class="sha">#2fa623a</div>
                                         <div class="message">update...</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Crimson-Genesis/python-study</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b965d56</div>
-                                        <div class="message">created many migration file in the Blog_Site project.
-
- .../.VSCodeCounter/2024-01-06_23-15-02/details.md  | 2507 ------------------
- .../2024-01-06_23-15-02/diff-details.md            |   15 -
- .../.VSCodeCounter/2024-01-06_23-15-02/diff.csv    |    2 -
- .../.VSCodeCounter/2024-01-06_23-15-02/diff.md     |   19 -
- .../.VSCodeCounter/2024-01-06_23-15-02/diff.txt    |   22 -
- .../.VSCodeCounter/2024-01-06_23-15-02/results.csv | 2494 ------------------
- .../2024-01-06_23-15-02/results.json               |    1 -
- .../.VSCodeCounter/2024-01-06_23-15-02/results.md  |  232 --
- .../.VSCodeCounter/2024-01-06_23-15-02/results.txt | 2727 --------------------
- Blog_Site/.vscode/settings.json                    |    3 -
- .../Blog_Site/__pycache__/settings.cpython-312.pyc |  Bin 3157 -&gt; 2625 bytes
- .../Blog_Site/__pycache__/urls.cpython-312.pyc     |  Bin 1458 -&gt; 820 bytes
- .../Blog_Site/__pycache__/wsgi.cpython-312.pyc     |  Bin 639 -&gt; 413 bytes
- Blog_Site/Blog_Site/settings.py                    |    6 +-
- Blog_Site/db.postgresql                            |    0
- Blog_Site/db.sqlite3                               |  Bin 188416 -&gt; 192512 bytes
- Blog_Site/main/__pycache__/admin.cpython-312.pyc   |  Bin 762 -&gt; 775 bytes
- Blog_Site/main/__pycache__/forms.cpython-312.pyc   |  Bin 5248 -&gt; 5261 bytes
- Blog_Site/main/__pycache__/models.cpython-312.pyc  |  Bin 6839 -&gt; 6852 bytes
- Blog_Site/main/__pycache__/urls.cpython-312.pyc    |  Bin 1346 -&gt; 1359 bytes
- Blog_Site/main/__pycache__/views.cpython-312.pyc   |  Bin 9845 -&gt; 9864 bytes
- .../__pycache__/0001_initial.cpython-312.pyc       |  Bin 4627 -&gt; 4640 bytes
- Blog_Site/main/urls.py                             |   11 +-
- Blog_Site/main/views.py                            |    5 +-
- Blog_Site/redme.md                                 |   17 -
- Blog_Site/templates/index.html                     |    2 +-
- Number_to_letter.py                                |    3 +-
- mechine_learn/__pycache__/function.cpython-312.pyc |  Bin 6402 -&gt; 6400 bytes
- 28 files changed, 13 insertions(+), 8053 deletions(-)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Crimson-Genesis/ieee_conference</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b99d8bd</div>
-                                        <div class="message">removed tha spacing in the home.html</div>
                                     </div>
                                 </div>
                             </section>
@@ -2511,7 +2486,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.62m out of 154m users</span>
+                                    <span class="gh">ranked 6.63m out of 154m users</span>
                                 </div>
                                 <div class="text">Published 11 public repositories</div>
                             </div>
@@ -2526,7 +2501,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.47056810403832 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.68275154004107 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2557,7 +2532,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jan 2025, 00:39:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 00:39:26  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
